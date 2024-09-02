@@ -5,5 +5,5 @@ function multiplicar(a, b) {
 function saudação(nome) {
     return console.log(`Olá ${nome}`);
 }
-console.log(multiplicar(2, 4));
+(multiplicar(2, 4);
 saudação("Kaiky");
